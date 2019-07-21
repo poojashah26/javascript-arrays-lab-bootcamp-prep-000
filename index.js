@@ -21,4 +21,4 @@ function destructivelyRemoveFirstKitten() {
 }
 
 var kitten = ["kitten"]
-console.log(kittens)
+console.log(kittens.concat(kitten))
