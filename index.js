@@ -22,4 +22,4 @@ function destructivelyRemoveFirstKitten() {
 
 var kittens = ["Milo", "Otis", "Garfield"];
 var kitten = ["kitten"];
-console.log(kittens.concat(kitten));
+console.log(kittens.concat(kitten))
