@@ -21,4 +21,4 @@ function destructivelyRemoveFirstKitten() {
 }
 
 var kitten = ["kitten"]
-console.log()
+console.log(kittens)
